@@ -13,8 +13,8 @@ The goal is to master the operating system and understand how data moves across 
 - [ ] **Linux Mastery (RHCSA):** Process management, advanced permissions, LVM, and package administration.
 - [ ] **Networking:** TCP/IP protocols, DNS, OSI Model, Subnetting, and Firewalls.
 - [ ] **Certifications:**
-    - [ ] **LPI Linux Essentials** (Entry point) 🎓
-    - [ ] **Red Hat Certified System Administrator (RHCSA EX200)** - *Currently Studying* 🐧
+    - [ ] **LPI Linux Essentials** (Entry point) 🎓 - *Currently Studying* 🐧
+    - [ ] **Red Hat Certified System Administrator (RHCSA EX200)** 
     - [ ] **CompTIA Network+**
 
 ## 🟨 Phase 2: The DevOps Language (Version Control & Scripting)
